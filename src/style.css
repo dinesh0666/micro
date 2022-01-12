@@ -1,0 +1,21 @@
+h1,
+p {
+  font-family: Lato;
+}
+.chatContainer {
+  /* background-color: #666; */
+  width: 350px;
+  padding: 20px;
+}
+.chat {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: lime;
+  margin-bottom: 10px;
+}
+.sendMessageSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 10px;
+}
